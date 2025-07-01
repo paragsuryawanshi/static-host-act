@@ -1,1 +1,1 @@
-Static website hosting with the help of github action 
+Static website hosting with the help of github  Actions
